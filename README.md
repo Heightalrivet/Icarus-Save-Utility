@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Icarus-Save-Utility` · Updated: 2026-10-07
+`Icarus-Save-Utility` · Updated: 2026-10-24
 
 **Tags:** `icarus` `savegame` `survival` `sandbox` `steam`
